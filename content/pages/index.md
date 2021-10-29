@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi, I''m Luis Cadme.'
     content: |
-      he
+      ho
   - section_id: about
     type: section_content
     title: About
