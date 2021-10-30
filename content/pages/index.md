@@ -13,11 +13,24 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: >
+      I am 25 years old and I live in Ecuador. I am a graduate of the Technical
+      University of Cotopaxi (UTC) in the career of Engineer in computer science
+      and computer systems, I am currently studying the School of Data Science
+      in Platzi
+
+
+      One of the things I enjoy the most is nature, living in the Amazon, I am
+      passionate about going out to explore areas that I have not visited,
+      especially I really like swimming. I also listen to people about their
+      problems or any inconvenience they have.
+
+
+      Since I was a child I liked observing the behavior of things I never knew
+      exactly why, lately I got into the world of Data Science, basically
+      studying Python and its different libraries. I hope to continue studying
+      more about the different technologies in hopes of landing a job in this
+      industry.
     actions:
       - label: Contact Me
         url: /contact
